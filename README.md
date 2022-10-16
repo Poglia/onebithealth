@@ -18,8 +18,8 @@ Con l'aiuto di OneBitCode sono riuscito a far decollare il mio primo progetto ut
 ## 
 </br>
 <div align='center'>
-  <img src='https://user-images.githubusercontent.com/80574001/196028702-ed9ef091-335c-45cc-8a70-8af8c1cb5916.JPG' width='230' height='450'/>
-  <img src='https://user-images.githubusercontent.com/80574001/196028811-55952c9d-461f-4770-a932-b59e9ac0a616.JPG' width='230' height='450'/>
-  <img src='https://user-images.githubusercontent.com/80574001/196028814-b27eaa24-b656-4951-a07a-1847583e43af.JPG' width='230' height='450'/>
-  <img src='https://user-images.githubusercontent.com/80574001/196028815-3cf25cd2-6536-4d54-bf14-47e10f01b6ed.JPG' width='230' height='450'/>
+  <img src='https://user-images.githubusercontent.com/80574001/196028702-ed9ef091-335c-45cc-8a70-8af8c1cb5916.JPG' width='200' height='420'/>
+  <img src='https://user-images.githubusercontent.com/80574001/196028811-55952c9d-461f-4770-a932-b59e9ac0a616.JPG' width='200' height='420'/>
+  <img src='https://user-images.githubusercontent.com/80574001/196028814-b27eaa24-b656-4951-a07a-1847583e43af.JPG' width='200' height='420'/>
+  <img src='https://user-images.githubusercontent.com/80574001/196028815-3cf25cd2-6536-4d54-bf14-47e10f01b6ed.JPG' width='200' height='420'/>
 </div>
